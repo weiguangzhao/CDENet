@@ -1,3 +1,3 @@
 # CDENet
 
-### Coming soon
+### Source code is coming soon.
