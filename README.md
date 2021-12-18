@@ -2,4 +2,4 @@
 
 ### Source code is coming soon.
 
-<video src="https://www.youtube.com/watch?v=378I79Q_LzY" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+[![CDENet testing for robot grasping](https://res.cloudinary.com/marcomontalbano/image/upload/v1639816576/video_to_markdown/images/youtube--378I79Q_LzY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=378I79Q_LzY "CDENet testing for robot grasping")
